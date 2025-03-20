@@ -2146,10 +2146,18 @@ Net73=NetName=MCU_SDMMC2_TMP_D0|NetColor=$0000CC00
 Net74=NetName=MCU_SDMMC2_TMP_D1|NetColor=$0000CC00
 Net75=NetName=MCU_SDMMC2_TMP_D2|NetColor=$0000CC00
 Net76=NetName=MCU_SDMMC2_TMP_D3|NetColor=$0000CC00
-Net77=NetName=MCU_USB-FS_DM|NetColor=$00CC0000
-Net78=NetName=MCU_USB-FS_DP|NetColor=$00CC0000
-Net79=NetName=MCU_USB-FS_HUB_D_N|NetColor=$00CC0000
-Net80=NetName=MCU_USB-FS_HUB_D_P|NetColor=$00CC0000
+Net77=NetName=MCU_SPI6_DEBUG_CS|NetColor=clYellow
+Net78=NetName=MCU_SPI6_DEBUG_MISO|NetColor=clYellow
+Net79=NetName=MCU_SPI6_DEBUG_MOSI|NetColor=clYellow
+Net80=NetName=MCU_SPI6_DEBUG_SCK|NetColor=clYellow
+Net81=NetName=MCU_USB-FS_DM|NetColor=$00CC0000
+Net82=NetName=MCU_USB-FS_DP|NetColor=$00CC0000
+Net83=NetName=MCU_USB-FS_HUB_D_N|NetColor=$00CC0000
+Net84=NetName=MCU_USB-FS_HUB_D_P|NetColor=$00CC0000
+Net85=NetName=SPI-ISO_CONN_CS|NetColor=clYellow
+Net86=NetName=SPI-ISO_CONN_MISO|NetColor=clYellow
+Net87=NetName=SPI-ISO_CONN_MOSI|NetColor=clYellow
+Net88=NetName=SPI-ISO_CONN_SCK|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
