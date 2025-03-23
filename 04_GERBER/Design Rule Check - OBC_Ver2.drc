@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\1_Altium_Project\7_OBC_V111\NANORACK_V2_OBC_1.1.1_HW\01_DESIGN\OBC_Ver2.PcbDoc
-Date     : 3/21/2025
-Time     : 3:34:25 PM
+Date     : 3/23/2025
+Time     : 4:43:30 PM
 
 WARNING: Unplated multi-layer pad(s) detected
    Pad J16-M1(65mm,26.75mm) on Multi-Layer on Net GND_CM4
@@ -214,4 +214,4 @@ Issues :48
 Violations Detected : 13
 Waived Violations : 0
 PCB Health Issues : 48
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:04

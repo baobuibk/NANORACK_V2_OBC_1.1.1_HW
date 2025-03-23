@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: OBC_Ver2.GBR   3/21/2025  3:40:00 PM
+Gerber File Extension Report For: OBC_Ver2.GBR   3/23/2025  4:49:02 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -18,8 +18,6 @@ Layer Extension     Layer Description
 .gbr                Bottom Solder                           
 .gbr                Bottom Paste                            
 .gbr                Bottom Overlay                          
-.gbr                Top Assembly                            
-.gbr                Bottom Assembly                         
 .gbr                Keep-Out Layer                          
 .gbr                Top Pad Master                          
 .gbr                Bottom Pad Master                       

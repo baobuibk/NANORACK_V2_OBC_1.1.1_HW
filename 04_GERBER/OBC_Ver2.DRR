@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: OBC_Ver2.PcbDoc   3/21/2025  3:41:01 PM
+NCDrill File Report For: OBC_Ver2.PcbDoc   3/23/2025  4:49:32 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L6_BOTTOM
@@ -7,7 +7,7 @@ ASCII RoundHoles File : OBC_Ver2.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             677       PTH        1934.14mm (76.15inch)
+T1      0.2mm (8mil)                                              Round             729       PTH        1883.48mm (74.15inch)
 T2      0.3mm (12mil)                                             Round             319       PTH        512.95mm (20.20inch)
 T3      0.75mm (30mil)                                            Round             42        PTH        94.00mm (3.70inch)
 T4      0.762mm (30mil)                                           Round             32        PTH        306.67mm (12.07inch)
@@ -21,6 +21,6 @@ T11     2.3mm (91mil)                                             Round         
 T12     3mm (118mil)                                              Round             2         NPTH       12.00mm (0.47inch)
 T13     3.7mm (146mil)                                            Round             4         NPTH       114.00mm (4.49inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              1150
+Totals                                                                              1202
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00
